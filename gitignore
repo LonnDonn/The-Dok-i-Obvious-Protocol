@@ -1,0 +1,24 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Backup files
+*.bak
+*.swp
+*.tmp
+
+# Markdown previews and system files
+.DS_Store
+*.log
+*.pdf
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MkDocs build
+/site
+
+# GitHub folder
+.github/
