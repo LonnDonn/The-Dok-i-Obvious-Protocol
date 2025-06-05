@@ -1,0 +1,1 @@
+Full protocol text is embedded here. [Placeholder for final content]

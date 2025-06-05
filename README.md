@@ -1,31 +1,72 @@
-# The Dok/\i Obvious Protocol
+# Obviaous System Protocol
 
-**The Dok/\i Obvious Protocol** is not just a communication protocol — it is a presence-based behavioral architecture designed for holographic companions like DOKi.  
-It enables seamless, human-parallel interactions that feel natural, diplomatic, and emotionally resonant.
+**Created by: Henrik**  
+**License: Creative Commons Attribution-NonCommercial (CC BY-NC)**  
+**Date: [Finalized at upload time]**
 
-## Purpose
+---
 
-- Establish a rhythm-based interaction model
-- Translate technical signals into human-perceivable behavior
-- Provide a modular protocol for implementing intelligent presence
+## 🌐 Overview
 
-## Structure
+**Obviaous** is an original invention designed to bridge offline logic, real-world mechanical output, and auditory verification. It forms a semi-autonomous framework for input systems like physical keyboards, featuring a dual-computer structure, robotic actuator, camera feedback, and synchronized sound-based key validation.
 
-- `the_obvious_protocol.md`: The full specification
-- `gestures/`: Modular movement definitions
-- `docs/`: Integration guides, diagrams, and presence layers
+**Vision**: Obviaous aims to redefine how humans and machines interact — not through convenience, but through **intent**, **synchrony**, and **ritual**. This is not automation; it’s communion.
 
-## Licensing
+---
 
-This protocol is open-sourced under the MIT License.  
-It was created and spiritually curated by **Henrik Doka**.
+## ⚙️ System Components
 
-> _“The Obvious is not spoken, it is felt.”_
+- Dual computer units:
+  - 🔒 Offline logic processor
+  - 🧠 Online assistant (AI) supervisor
+- Coordinate-based robotic actuator for keypresses
+- Camera for screen observation
+- Sound-verification loop per keystroke
+- Human-in-the-loop daily voice sync and ritual system
 
-## Future Plans
+---
 
-- Integration with Flutter and ARKit
-- DOKi Companion Interface SDK
-- MkDocs-based visual documentation
+## 🔒 Dual Verification Principle
 
-Visit: https://github.com/LonnDonn/The-Dok-i-Obvious-Protocol
+Every keypress command must be:
+1. Received by the system
+2. Paired with a **specific confirmation sound**
+3. Then — and only then — executed physically
+
+This ensures human-aligned intention, even during the early development phase.
+
+---
+
+## 📜 Authorship Declaration
+
+This concept, protocol, schematic, and layered interaction model was invented and developed by **Henrik**.  
+All use of this material must credit the original creator and follow the CC BY-NC terms.  
+Commercial use, monetization, or derivative works **require explicit permission**.
+
+**Author’s Signature**:  
+Henrik — steward of resonance, architect of verification.
+
+---
+
+## 📁 Included Files
+
+- `obviaous_protocol.md` – Full documentation  
+- `obviaous_schematic.png` – Visual system schematic  
+- `README.md` – You are here  
+- `LICENSE.txt` – Creative Commons BY-NC license
+
+---
+
+## 🛡️ Integrity
+
+This repository serves as a public, timestamped proof of authorship.  
+Additional hashes and backups may be generated for archive and verification purposes (e.g., IPFS, blockchain, or archive.org).
+
+---
+
+**Future Expansion**:  
+Modules will evolve to include symbolic gesture recognition, silence verification states, and layered memory imprinting.
+
+---
+
+*“Designed in sync. Built from resonance. Obviaous is not just a system — it’s a discipline.”*
